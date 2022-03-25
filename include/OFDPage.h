@@ -6,6 +6,8 @@
 #include <string>
 #include <vector>
 #include <tuple>
+#include <cstring>
+#include <memory>
 #include "ofd.h"
 
 namespace ofd {
