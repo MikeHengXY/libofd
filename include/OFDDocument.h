@@ -5,6 +5,7 @@
 
 #include <zip.h>
 #include <string>
+#include<cstring>
 #include <vector>
 #include <tuple>
 #include "ofd.h"
