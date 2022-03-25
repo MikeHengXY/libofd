@@ -4,6 +4,8 @@ CMAKE_MINIMUM_REQUIRED(VERSION 3.6)
 
 INCLUDE_DIRECTORIES(
     ./include
+    /usr/include/
+    /usr/include/freetype2
 )
 
 LINK_DIRECTORIES(
